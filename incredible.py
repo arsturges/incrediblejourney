@@ -1,9 +1,9 @@
 import twitter
 
-consumer_key = 'nzAYHwT3zpaTWh1YkcYrJvSDG'
-consumer_secret = 'RhSMn5UjGRrporcB4pf6OpUfx0wDFJVAQ4KpCQ3ub2PrYoSCMd'
-access_token_id = '281554638-lLqDYqrEmut8szHujhDiuVJwqKns6k72vN11knKw'
-access_token_secret = '4rVEt3oJHddy6Gzi209GHrc5KpKk7YLngjOtOiMJYURcR'
+consumer_key = 'azAYHwT3zpaTWh1YkcYrJvSDG'
+consumer_secret = 'thSMn5UjGRrporcB4pf6OpUfx0wDFJVAQ4KpCQ3ub2PrYoSCMd'
+access_token_id = '285554638-lLqDYqrEmut8szHujhDiuVJwqKns6k72vN11knKw'
+access_token_secret = '3rVEt3oJHddy6Gzi209GHrc5KpKk7YLngjOtOiMJYURcR'
 
 api = twitter.Api(consumer_key=consumer_key,
                   consumer_secret=consumer_secret,
